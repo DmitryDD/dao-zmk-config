@@ -30,10 +30,10 @@
 
             bindings = <
             &kp GRAVE       &kp N1  &kp N2  &kp N3        &kp N4     &kp N5       &kp N6         &kp N7  &kp N8         &kp N9   &kp N0    &kp MINUS
-&kp ESCAPE  &kp TILDE       &kp Q   &kp W   &kp E         &kp R      &kp T        &kp Y          &kp U   &kp I          &kp O    &kp P     &kp LBKT       &mt RWIN RBKT
-            &kp TAB         &kp A   &kp S   &kp D         &kp F      &kp G        &kp H          &kp J   &kp K          &kp L    &kp SEMI  &mt RCTRL SQT
-            &kp LEFT_SHIFT  &kp Z   &kp X   &kp C         &kp V      &kp B        &kp N          &kp M   &kp COMMA      &kp DOT  &kp FSLH  &mt RALT BSLH
-                                            &kp LEFT_GUI  &kp LCTRL  &lt 1 RET    &kp LG(SPACE)  &mo 1   &kp BACKSPACE
+&kp ESCAPE  &kp TILDE       &kp Q   &kp W   &kp E         &kp R      &kp T        &kp Y          &kp U   &kp I          &kp O    &kp P     &kp LBKT       &kp RIGHT_BRACKET
+            &kp TAB         &kp A   &kp S   &kp D         &kp F      &kp G        &kp H          &kp J   &kp K          &kp L    &kp SEMI  &kp SQT
+            &kp LEFT_SHIFT  &kp Z   &kp X   &kp C         &kp V      &kp B        &kp N          &kp M   &kp COMMA      &kp DOT  &kp FSLH  &kp BACKSLASH
+                                            &kp LEFT_GUI  &kp LCTRL  &kp ENTER    &kp LG(SPACE)  &mo 1   &kp BACKSPACE
             >;
         };
 
