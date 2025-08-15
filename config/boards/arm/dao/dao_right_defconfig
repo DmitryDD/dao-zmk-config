@@ -28,6 +28,8 @@ CONFIG_CLOCK_CONTROL_NRF_K32SRC_30PPM=y
 # # Turn on logging, and set ZMK logging to debug output
 # CONFIG_ZMK_USB_LOGGING=y
 CONFIG_USB_DEVICE_HID=y
+CONFIG_ZMK_USB=n
+CONFIG_USB_DEVICE_STACK=n
 
 # # Turn on logging, and set ZMK logging to debug output
 # CONFIG_LOG=y
